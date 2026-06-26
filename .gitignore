@@ -1,2 +1,14 @@
 .idea/
 .cadence/
+.playwright-cli/
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+playwright-report/
+test-results/
+.env
+.env*.local
+*.tsbuildinfo

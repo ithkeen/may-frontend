@@ -1,0 +1,16 @@
+node_modules
+.next
+out
+build
+dist
+coverage
+playwright-report
+test-results
+.git
+.idea
+.playwright-cli
+prototype
+README.md
+*.log
+.env
+.env*.local
