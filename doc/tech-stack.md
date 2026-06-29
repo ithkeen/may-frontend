@@ -8,7 +8,7 @@ This document records only explicitly confirmed technology choices for this proj
 - UI library: React
 - Application framework: Next.js
 - Package manager: pnpm
-- Deployment: Docker-based deployment
+- Deployment: GitHub Actions + GHCR + Docker Compose + Next.js standalone output
 - Routing: Next.js App Router
 - Source layout: `src` directory
 - Styling: Tailwind CSS
